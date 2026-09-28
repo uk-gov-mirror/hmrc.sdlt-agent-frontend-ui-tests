@@ -24,5 +24,5 @@ object AgentsBYSPage extends BasePage {
 
   override def pageTitle: String =
     "Before you start - Manage agents - Stamp Taxes Online - GOV.UK"
-
+    def buttonTitle:String = "test"
 }
